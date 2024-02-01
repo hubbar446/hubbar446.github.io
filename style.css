@@ -10,7 +10,7 @@ body {
 }
 
 /* navigation menu */
-nav {
+nav{
     background: rgb(239, 80, 41);
    margin: 0 auto;
     display: flex;
