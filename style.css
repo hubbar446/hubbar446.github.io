@@ -119,7 +119,7 @@ main {
           color: #454545;
       }
       body {
-        background: rgba(0, 64, 255, 0.915);
+        background: rgba(96, 113, 111, 0.724);
         color: rgb(45, 45, 45);
         padding: 10px;
         font-family: Roboto;
@@ -130,7 +130,7 @@ main {
      }
      /* navigation menu */
      nav{
-        background: rgb(255, 92, 5);
+        background: rgb(108, 3, 236);
        margin: 0 auto;
         display: flex;
         padding: 20px;
