@@ -50,13 +50,6 @@ main {
 .content {
   flex: 1;
   padding: 15px;
-}
+}    
 
-/* portfolio styles */
-#interests {
-  border: 4px silver ridge;
-  padding: 8px;
-}
-h2, h3 {
-  margin: 0px;
-}
+ 
